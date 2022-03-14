@@ -1,2 +1,7 @@
 Some header text
+<<<<<<< HEAD
+Changes from <first>
+=======
+Changes from <master>
+>>>>>>> master
 
