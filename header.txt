@@ -1,2 +1,3 @@
 Some header text
+Changes from <master>
 
